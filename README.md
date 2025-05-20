@@ -38,6 +38,7 @@ npm run dev
 
 ```bash
 ## Example API Request with Postman
+ First we need to signup , login and then copy bearer token and paste it in Authorisation tab so that we are authenticated for the route and then we can apply these to api/books or api/reviews etc.
 
 ### Get all books
 
