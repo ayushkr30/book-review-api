@@ -36,6 +36,18 @@ npm run dev
 
 5. **Example to check API endpoint in Postman**
 
+
+
+
+
+https://github.com/user-attachments/assets/167bc2c2-9d2b-4037-9ead-79730154a6f0
+
+
+
+
+
+
+
 ```bash
 ## Example API Request with Postman
  First we need to signup , login and then copy bearer token and paste it in Authorisation tab so that we are authenticated for the route and then we can apply these to api/books or api/reviews etc.
